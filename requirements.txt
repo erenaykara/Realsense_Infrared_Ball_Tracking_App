@@ -1,0 +1,7 @@
+pyrealsense2
+opencv-python==3.4.15.55
+imutils
+Scikit-image
+pyqt5
+pyqt5-tools
+pyinstaller
