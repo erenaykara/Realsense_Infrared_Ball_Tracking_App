@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ### Run the App
 ```
 1. python InfraredBallApp.py
-2. For Windows user, the exe is ready in [InfraredBallApp]()
+2. For Windows user, the exe is ready in [InfraredBallApp](https://drive.google.com/file/d/1atKXfsnSyla1s4_VDUv0xLTP_gddMeFk/view?usp=drive_link)
 ```
 
 ### Contact
